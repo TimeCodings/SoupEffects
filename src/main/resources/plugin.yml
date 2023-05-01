@@ -1,0 +1,6 @@
+name: SoupEffects
+version: '${project.version}'
+main: dev.timecoding.soupeffects.SoupEffects
+api-version: 1.19
+
+

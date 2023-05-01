@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SoupEffects">
+    <output-path>$USER_HOME$/Desktop/1.19.3 Test/plugins</output-path>
+    <root id="archive" name="SoupEffects.jar">
+      <element id="module-output" name="SoupEffects" />
+    </root>
+  </artifact>
+</component>

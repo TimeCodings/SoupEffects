@@ -1,0 +1,37 @@
+Item:
+  #Change the soup item
+  Soup:
+    DisplayName: "&dMagic Soup"
+    Material: BEETROOT_SOUP
+    Lore:
+      - "&7This item will give you the following effect"
+      - "&7when consuming it: &e%effect%"
+
+#Change the effects which could be added
+Effects:
+  - "GLOWING"
+  - "WEAKNESS"
+  - "FIRE_RESISTANCE"
+  - "JUMP"
+  - "FAST_DIGGING"
+  - "REGENERATION"
+  - "DAMAGE_RESISTANCE"
+  - "WATER_BREATHING"
+  - "NIGHT_VISION"
+  - "HEALTH_BOOST"
+  - "SATURATION"
+  - "LUCK"
+  - "DOLPHINS_GRACE"
+  - "CONDUIT_POWER"
+  - "ABSORPTION"
+  - "UNLUCK"
+
+
+#Change this to "true" if the killer should receive the soup instead of the player
+ToggleReceiver: false
+
+#Change this to "true" if you want to remove the effects on death
+RemoveEffectsOnDeath: false
+
+#DO NOT CHANGE THIS
+config-version: 1.1.0
